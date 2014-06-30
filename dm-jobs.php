@@ -80,8 +80,6 @@ function register_cpt_job_listing() {
 	}
 		
 }
-
- 
  
 /**
  * Checks if a particular user has a role. 

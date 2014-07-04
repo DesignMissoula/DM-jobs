@@ -5,8 +5,14 @@ Plugin Name: DM Job Listings
 Plugin URI: http://www.designmissoula.com/
 Description: This is not just a plugin, it makes WordPress better.
 Author: Bradford Knowlton
-Version: 1.6
 Author URI: http://bradknowlton.com/
+Version: 1.7.1
+License:           GNU General Public License v2
+License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+Domain Path:       /languages
+Text Domain:       DM-jobs
+GitHub Plugin URI: https://github.com/DesignMissoula/DM-jobs
+GitHub Branch:     gcsaa-groups
 */
 
 add_action( 'init', 'register_cpt_job_listing' );

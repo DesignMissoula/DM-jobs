@@ -1,12 +1,12 @@
 <?php
 
 /*
-Plugin Name: DM Job Listings
+Plugin Name: DM Jobs
 Plugin URI: http://www.designmissoula.com/
 Description: This is not just a plugin, it makes WordPress better.
 Author: Bradford Knowlton
 Author URI: http://bradknowlton.com/
-Version: 1.7.1
+Version: 1.7.2
 License:           GNU General Public License v2
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 Domain Path:       /languages
